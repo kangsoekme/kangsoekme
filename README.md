@@ -6,7 +6,7 @@ Saya seorang **Mahasiswa** di [Universitas Darussalam Gontor](https://unida.gont
 
 Saya sedang menempuh pendidikan di program studi Teknik Informatika yang berfokus di **Web Developer**.<br>
 
-Connect with me for other relation and more knowledg[LinkedIn](https://www.linkedin.com/in/abdullahsukmajati/).
+Connect with me for other relation and more knowledge [LinkedIn](https://www.linkedin.com/in/abdullahsukmajati/).
 
 <p align="left">
 <a href="https://github.com/penuliscode">
