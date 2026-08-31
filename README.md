@@ -7,10 +7,9 @@
   </a>
   <a href="https://github.com/kangsoekme">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> -->
-[![Stats](https://img.shields.io/badge/GitHub-Stats-2f80ed?style=for-the-badge&logo=github)](https://github.com/kangsoekme)
-</p>
 
----
+</p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=kangsoekme)](https://github.com/kangsoekme)
 
 ### 👨‍💻 About Me
 
