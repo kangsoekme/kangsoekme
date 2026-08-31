@@ -25,7 +25,6 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/kangsoekme/kangsoekme@output/github-snake.svg" />
 </picture>
 
-
 ---
 
 ### 👨‍💻 About Me
@@ -41,40 +40,36 @@
 **Frontend**
 
 <p>
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-
+    <img align="center" alt="React" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Vite" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
+    <img align="center" alt="Tailwind CSS" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" alt="Redux" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </p>
 
 **Backend**
 
 <p>
-    <img align="center" alt="Rafa-Js" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-
+    <img align="center" alt="Node.js" height="45" width="45" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="Express.js" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
 </p>
 
 **Database & ORM**
 
 <p>
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+    <img align="center" alt="MySQL" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="PostgreSQL" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Prisma" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 </p>
 
 **Tools**
 
 <p>
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
+    <img align="center" alt="Git" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Docker" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Postman" height="45" width="45" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+    <img align="center" alt="Linux" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="VS Code" height="45" width="45" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </p>
-
 
 ---
 
