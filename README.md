@@ -2,12 +2,12 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullahsukmajati/">
+  <!-- <a href="https://www.linkedin.com/in/abdullahsukmajati/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/kangsoekme">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> -->
+[![Stats](https://img.shields.io/badge/GitHub-Stats-2f80ed?style=for-the-badge&logo=github)](https://github.com/kangsoekme)
 </p>
 
 ---
