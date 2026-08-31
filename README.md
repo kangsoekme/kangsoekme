@@ -9,6 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=kangsoekme&label=Profile+Views&style=flat" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangsoekme/kangsoekme/output/github-snake-dark.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/kangsoekme/kangsoekme/output/github-snake.svg" />
+</picture>
+
 
 
 ### 👨‍💻 About Me
